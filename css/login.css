@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    box-shadow: 0 0.5rem .5rem;
+    /* background-color: currentColor; */
+    background-image: linear-gradient(black, white);
+}
+.login-form
+{
+    width: 40%;
+    text-align: center;
+}
+.input-form
+{
+    margin:20px 0;
+}
+input{
+    width: 100%;
+    padding: 10px 20px;
+    border: 2px inset black;
+}

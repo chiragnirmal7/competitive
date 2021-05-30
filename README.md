@@ -1,0 +1,2 @@
+# competitive
+Here a simple project for competitive exams. In client side user can download books, view exam details and apply exams, there is no require registration for download books but require registration for register for any exam. User can also give feedback and ask any frequently questions. In admin side can perform CRUD operations on books, exams, user, can manage FAQs and some other. Here, I am use HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP-5, PHP and for DATABASE (MySQL). 
